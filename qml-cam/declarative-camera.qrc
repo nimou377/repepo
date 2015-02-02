@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>declarative-camera.qml</file>
+    </qresource>
+</RCC>
